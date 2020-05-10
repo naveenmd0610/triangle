@@ -1,0 +1,8 @@
+class Triangle
+{
+public static void main(String ar[])
+{
+int b=2,h=6;
+System.out.println("Area of Triangle="+0.4*b*h);
+}
+}
